@@ -1,5 +1,5 @@
 
-# API testing project with CRUD java + Rest Assured + Allure report + TestNG
+# API testing project CRUD with  java + Rest Assured + Allure report + TestNG
 
 As a website for API testing, I used the website https://reqres.in/ with an open API
 
